@@ -5,5 +5,5 @@
 </p>
 
 ## KRTMI
-**Kontes Robot Tematik Indonesia**
+<br>**Kontes Robot Tematik Indonesia** <br/>
 _KRTMI Juara, KRTMI Jawara, KRTMI Jaya Jaya Jaya_
