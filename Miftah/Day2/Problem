@@ -1,0 +1,3 @@
+Encoder yang menggunakan e6b2-cwz6cob tidak terbaca saat digerakkan, padahal semua setup dan codingan sudah sesuai
+Solusi :
+Pada e6b2-cwz6cob perlu dibuat pull up. Pada System Core masuk ke GPIO lalu pilih timer untuk encoder e6b2-cwz6cob, di Mode TIM ubah GPIO Pull-up/Pull-down menjadi Pull-up
