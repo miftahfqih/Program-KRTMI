@@ -1,0 +1,11 @@
+Fungsi robotjalan tidak dipanggil pada while(1) sehingga robot tidak berjalan
+
+Seharusnya :
+
+```
+while (1)
+  {
+    robotJalan(1, 0, 0, 200);
+     HAL_Delay(1000);
+  }
+````
