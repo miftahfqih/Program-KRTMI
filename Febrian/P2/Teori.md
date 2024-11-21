@@ -3,4 +3,4 @@
 
 # H-bridge:
 ### H-bridge merupakan suatu sirkuit elektronika yang mengatur motor DC untuk dapat bergerak maju dan mundur. terdapat 4 switch yang ada pada H-bridge dan beban atau motornya berada di tengah. Ketika switch 1 tersambung maka switch 4 juga akan tersambung dan switch 2 dan 3 terputus, dan ketika switch 2 tersambung maka switch 3 juga akan tersambung dan switch 1 dan 4 terputus. Ketika switch 1 dan 4 tersambung maka motor akan berputar maju atau mundur, dan ketika switch 2 dan 3 yang tersambung maka motor akan berputar berlawanan arah dengan ketika switch 1 dan 4 tersambung.
-![H-bridge](
+![H-bridge](https://github.com/miftahfqih/Program-KRTMI/blob/main/Febrian/P2/Capture.PNG)
