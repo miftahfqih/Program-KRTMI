@@ -8,3 +8,5 @@ PIN PA15 & PB9
 
 Jadi secara teori pada datasheet encoder E6B2 jika pada datasheet pembacaan encoder nya ditulis Open collector maka semua pin
 pembacaan encoder harus di set PULL UP agar encoder dapat terbaca
+
+yang dimana encoder ini nanti dapat membantu robot untuk membaca posisi
