@@ -1,3 +1,4 @@
+# BACA ENCODER
 Jadi pada day 2 kemarin kita mulai belajar membaca encoder
 
 total ada 6 encoder (4 encoder roda, 1 encoder cahaya, 1 encoder lain)
